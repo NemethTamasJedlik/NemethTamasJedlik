@@ -3,7 +3,7 @@
 <!--
 **NemethTamasJedlik/NemethTamasJedlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Kedvenc oldalam](https://gymsuleiman.hu)
+[Kedvenc oldalam](https://www.gymsuleiman.hu)
 ![gym](![gym](https://github.com/NemethTamasJedlik/NemethTamasJedlik/assets/146165828/7d4def03-3a5f-40d5-9205-082e7a4043e9)
 )
 
